@@ -1,20 +1,5 @@
 [
     {
-        "Id": "22yywgo9gmlkypxr30zmmfmw1",
-        "islive": true,
-        "sports": "Football",
-        "name": "Seattle Sounders FC vs. Paris Saint-Germain",
-        "description": "Watch the latest action from the FIFA Club World Cup, with the group stage match between Seattle Sounders FC and Paris Saint-Germain.",
-        "poster": "https://image.discovery.indazn.com/jp/v3/jp/none/22yywgo9gmlkypxr30zmmfmw1_image-header_pRow_1747916129000/fill/none/top/none/85/600/336/webp/image",
-        "tournament": "FIFA Club World Cup™",
-        "start": "2025-06-24 12:30 AM",
-        "end": "2025-06-24 04:00 AM",
-        "source": {
-            "m3u8": "https://dcb-fl-live.dtcdn.dazn.com/1b4xr8mckv0dy1iyvzv8wabc3v/tv/stream.m3u8?channel=2650&outlet=dazn-row&plang=en",
-            "mpd": "https://dcb-fl-live.dtcdn.dazn.com/1b4xr8mckv0dy1iyvzv8wabc3v/tv/stream.mpd?channel=2650&outlet=dazn-row&plang=en"
-        }
-    },
-    {
         "Id": "c1p120deg6koyqz42n37nds6n",
         "islive": true,
         "sports": "Football",
