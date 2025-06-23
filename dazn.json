@@ -1,17 +1,1 @@
-[
-    {
-        "Id": "c1p120deg6koyqz42n37nds6n",
-        "islive": true,
-        "sports": "Football",
-        "name": "Atlético de Madrid vs. Botafogo",
-        "description": "Watch the latest action from the FIFA Club World Cup, with the group stage match between Atlético de Madrid and Botafogo.",
-        "poster": "https://image.discovery.indazn.com/jp/v3/jp/none/c1p120deg6koyqz42n37nds6n_image-header_pRow_1747916130000/fill/none/top/none/85/600/336/webp/image",
-        "tournament": "FIFA Club World Cup™",
-        "start": "2025-06-24 12:30 AM",
-        "end": "2025-06-24 04:00 AM",
-        "source": {
-            "m3u8": "https://dcb-fl-live.dtcdn.dazn.com/sljtw7ewvxir1413fcff45t9q/tv/stream.m3u8?channel=2651&outlet=dazn-row&plang=en",
-            "mpd": "https://dcb-fl-live.dtcdn.dazn.com/sljtw7ewvxir1413fcff45t9q/tv/stream.mpd?channel=2651&outlet=dazn-row&plang=en"
-        }
-    }
-]
+[]
