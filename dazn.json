@@ -1,32 +1,17 @@
 [
     {
-        "Id": "8hlmbagr4mb6hvblurhgbnpd1",
+        "Id": "cmb2j9sotayqc9m6umslfsumx",
         "islive": true,
         "sports": "Football",
-        "name": "Inter Miami CF vs. Palmeiras",
-        "description": "Watch the latest action from the FIFA Club World Cup, with the group stage match between Inter Miami CF and Palmeiras.",
-        "poster": "https://image.discovery.indazn.com/jp/v3/jp/none/8hlmbagr4mb6hvblurhgbnpd1_image-header_pRow_1747916129000/fill/none/top/none/85/600/336/webp/image",
+        "name": "Review Show | MD 10",
+        "description": "Watch all the latest FIFA Club World Cup action from matchday 10.",
+        "poster": "https://image.discovery.indazn.com/jp/v3/jp/none/cmb2j9sotayqc9m6umslfsumx_image-header_pRow_1750075985000/fill/none/top/none/85/600/336/webp/image",
         "tournament": "FIFA Club World Cup™",
-        "start": "2025-06-24 06:30 AM",
-        "end": "2025-06-24 10:00 AM",
+        "start": "2025-06-24 09:00 AM",
+        "end": "2025-06-24 09:55 AM",
         "source": {
-            "m3u8": "https://dcb-fl-live.dtcdn.dazn.com/vj2cqvea2vv31hicdji0qqrsu/tv/stream.m3u8?channel=2650&outlet=dazn-row&plang=en",
-            "mpd": "https://dcb-fl-live.dtcdn.dazn.com/vj2cqvea2vv31hicdji0qqrsu/tv/stream.mpd?channel=2650&outlet=dazn-row&plang=en"
-        }
-    },
-    {
-        "Id": "3tbqr3fqh9zgqgw5kktwio2uw",
-        "islive": true,
-        "sports": "Football",
-        "name": "FC Porto vs. Al Ahly FC",
-        "description": "Watch the latest action from the FIFA Club World Cup, with the group stage match between FC Porto and Al Ahly FC.",
-        "poster": "https://image.discovery.indazn.com/jp/v3/jp/none/3tbqr3fqh9zgqgw5kktwio2uw_image-header_pRow_1747916128000/fill/none/top/none/85/600/336/webp/image",
-        "tournament": "FIFA Club World Cup™",
-        "start": "2025-06-24 06:30 AM",
-        "end": "2025-06-24 10:00 AM",
-        "source": {
-            "m3u8": "https://dcb-fl-live.dtcdn.dazn.com/gxystpih7yua10tso9qyfdfd7/tv/stream.m3u8?channel=2651&outlet=dazn-row&plang=en",
-            "mpd": "https://dcb-fl-live.dtcdn.dazn.com/gxystpih7yua10tso9qyfdfd7/tv/stream.mpd?channel=2651&outlet=dazn-row&plang=en"
+            "m3u8": "https://dcb-fl-live.dtcdn.dazn.com/kr3zjbnlzk1313yf26n2ssjqk/tv/stream.m3u8?channel=1809&outlet=dazn-row&plang=en",
+            "mpd": "https://dcb-fl-live.dtcdn.dazn.com/kr3zjbnlzk1313yf26n2ssjqk/tv/stream.mpd?channel=1809&outlet=dazn-row&plang=en"
         }
     }
 ]
