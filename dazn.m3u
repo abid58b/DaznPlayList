@@ -1,1 +1,4 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/jp/v3/jp/none/2wx792cnboe62349hc8ob7eou_image-header_pRow_1747916129000/fill/none/top/none/85/600/336/webp/image" group-title="Dazn | Fifa WorldCup",SL Benfica vs. Bayern München
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://dcb-fl-live.dtcdn.dazn.com/kjikjk7ur7if16jp5whupzjhl/tv/stream.mpd?channel=2651&outlet=dazn-row&plang=en
