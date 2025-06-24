@@ -1,17 +1,1 @@
-[
-    {
-        "Id": "cmb2j9sotayqc9m6umslfsumx",
-        "islive": true,
-        "sports": "Football",
-        "name": "Review Show | MD 10",
-        "description": "Watch all the latest FIFA Club World Cup action from matchday 10.",
-        "poster": "https://image.discovery.indazn.com/jp/v3/jp/none/cmb2j9sotayqc9m6umslfsumx_image-header_pRow_1750075985000/fill/none/top/none/85/600/336/webp/image",
-        "tournament": "FIFA Club World Cup™",
-        "start": "2025-06-24 09:00 AM",
-        "end": "2025-06-24 09:55 AM",
-        "source": {
-            "m3u8": "https://dcb-fl-live.dtcdn.dazn.com/kr3zjbnlzk1313yf26n2ssjqk/tv/stream.m3u8?channel=1809&outlet=dazn-row&plang=en",
-            "mpd": "https://dcb-fl-live.dtcdn.dazn.com/kr3zjbnlzk1313yf26n2ssjqk/tv/stream.mpd?channel=1809&outlet=dazn-row&plang=en"
-        }
-    }
-]
+[]
