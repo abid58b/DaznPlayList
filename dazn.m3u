@@ -1,1 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/jp/v3/jp/none/8hlmbagr4mb6hvblurhgbnpd1_image-header_pRow_1747916129000/fill/none/top/none/85/600/336/webp/image" group-title="Dazn | Fifa WorldCup",Inter Miami CF vs. Palmeiras
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://dcb-fl-live.dtcdn.dazn.com/vj2cqvea2vv31hicdji0qqrsu/tv/stream.mpd?channel=2650&outlet=dazn-row&plang=en
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/jp/v3/jp/none/3tbqr3fqh9zgqgw5kktwio2uw_image-header_pRow_1747916128000/fill/none/top/none/85/600/336/webp/image" group-title="Dazn | Fifa WorldCup",FC Porto vs. Al Ahly FC
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://dcb-fl-live.dtcdn.dazn.com/gxystpih7yua10tso9qyfdfd7/tv/stream.mpd?channel=2651&outlet=dazn-row&plang=en
