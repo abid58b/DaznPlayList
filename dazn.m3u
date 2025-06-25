@@ -2,3 +2,6 @@
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/jp/v3/jp/none/45ovyx04evhiefuyvrmffcor8_image-header_pRow_1749753412000/fill/none/top/none/85/600/336/webp/image" group-title="Dazn | Fifa WorldCup",Borussia Dortmund vs. Ulsan HD
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dcb-fl-live.dtcdn.dazn.com/1pghoj09wbdym1k7gdgfv0ul5k/tv/stream.mpd?channel=2650&outlet=dazn-row&plang=en
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/jp/v3/jp/none/9p2ugegklsrvjrxxq8ehrbuma_image-header_pRow_1747916128000/fill/none/top/none/85/600/336/webp/image" group-title="Dazn | Fifa WorldCup",Mamelodi Sundowns FC vs. Fluminense
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://dcb-fl-live.dtcdn.dazn.com/p7ptpjckzx4c1hlrcz0t01fix/tv/stream.mpd?channel=2651&outlet=dazn-row&plang=en
