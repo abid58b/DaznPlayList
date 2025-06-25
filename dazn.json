@@ -1,1 +1,17 @@
-[]
+[
+    {
+        "Id": "45ovyx04evhiefuyvrmffcor8",
+        "islive": true,
+        "sports": "Football",
+        "name": "Borussia Dortmund vs. Ulsan HD",
+        "description": "Watch the latest action from the FIFA Club World Cup, with the group stage match between Borussia Dortmund and Ulsan HD.",
+        "poster": "https://image.discovery.indazn.com/jp/v3/jp/none/45ovyx04evhiefuyvrmffcor8_image-header_pRow_1749753412000/fill/none/top/none/85/600/336/webp/image",
+        "tournament": "FIFA Club World Cup™",
+        "start": "2025-06-26 12:30 AM",
+        "end": "2025-06-26 04:00 AM",
+        "source": {
+            "m3u8": "https://dcb-fl-live.dtcdn.dazn.com/1pghoj09wbdym1k7gdgfv0ul5k/tv/stream.m3u8?channel=2650&outlet=dazn-row&plang=en",
+            "mpd": "https://dcb-fl-live.dtcdn.dazn.com/1pghoj09wbdym1k7gdgfv0ul5k/tv/stream.mpd?channel=2650&outlet=dazn-row&plang=en"
+        }
+    }
+]
