@@ -1,17 +1,17 @@
 [
     {
-        "Id": "4md4pbo8mnczpdxq1d34czxeo",
+        "Id": "x05epjhy3iizktp4z3vbjtg8",
         "islive": true,
         "sports": "Football",
-        "name": "Espérance Sportive de Tunis vs. Chelsea FC",
-        "description": "Watch the latest action from the FIFA Club World Cup, with the group stage match between Espérance Sportive de Tunis and Chelsea FC.",
-        "poster": "https://image.discovery.indazn.com/jp/v3/jp/none/4md4pbo8mnczpdxq1d34czxeo_image-header_pRow_1747916128000/fill/none/top/none/85/600/336/webp/image",
+        "name": "The Press | MD 11",
+        "description": "Watch all the latest FIFA Club World Cup action from matchday 11.",
+        "poster": "https://image.discovery.indazn.com/jp/v3/jp/none/x05epjhy3iizktp4z3vbjtg8_image-header_pRow_1750322271000/fill/none/top/none/85/600/336/webp/image",
         "tournament": "FIFA Club World Cup™",
-        "start": "2025-06-25 06:30 AM",
-        "end": "2025-06-25 10:00 AM",
+        "start": "2025-06-25 09:00 AM",
+        "end": "2025-06-25 09:45 AM",
         "source": {
-            "m3u8": "https://dcb-fl-live.dtcdn.dazn.com/jio17xkc0s6s1p2r2h6gy379j/tv/stream.m3u8?channel=2651&outlet=dazn-row&plang=en",
-            "mpd": "https://dcb-fl-live.dtcdn.dazn.com/jio17xkc0s6s1p2r2h6gy379j/tv/stream.mpd?channel=2651&outlet=dazn-row&plang=en"
+            "m3u8": "https://dcb-fl-live.dtcdn.dazn.com/vrdguo2qcq0q19nrthytyquyk/tv/stream.m3u8?channel=1809&outlet=dazn-row&plang=en",
+            "mpd": "https://dcb-fl-live.dtcdn.dazn.com/vrdguo2qcq0q19nrthytyquyk/tv/stream.mpd?channel=1809&outlet=dazn-row&plang=en"
         }
     }
 ]
