@@ -13,20 +13,5 @@
             "m3u8": "https://dcb-fl-live.dtcdn.dazn.com/jio17xkc0s6s1p2r2h6gy379j/tv/stream.m3u8?channel=2651&outlet=dazn-row&plang=en",
             "mpd": "https://dcb-fl-live.dtcdn.dazn.com/jio17xkc0s6s1p2r2h6gy379j/tv/stream.mpd?channel=2651&outlet=dazn-row&plang=en"
         }
-    },
-    {
-        "Id": "udhxlzfq51ssoiunzf94m21m",
-        "islive": true,
-        "sports": "Football",
-        "name": "LAFC vs. Flamengo",
-        "description": "Watch the latest action from the FIFA Club World Cup, with the group stage match between LAFC and Flamengo.",
-        "poster": "https://image.discovery.indazn.com/jp/v3/jp/none/udhxlzfq51ssoiunzf94m21m_image-header_pRow_1748773558000/fill/none/top/none/85/600/336/webp/image",
-        "tournament": "FIFA Club World Cup™",
-        "start": "2025-06-25 06:30 AM",
-        "end": "2025-06-25 10:00 AM",
-        "source": {
-            "m3u8": "https://dcb-fl-live.dtcdn.dazn.com/1p4qijjzbi82l18r4r7v87kgvf/tv/stream.m3u8?channel=2650&outlet=dazn-row&plang=en",
-            "mpd": "https://dcb-fl-live.dtcdn.dazn.com/1p4qijjzbi82l18r4r7v87kgvf/tv/stream.mpd?channel=2650&outlet=dazn-row&plang=en"
-        }
     }
 ]
