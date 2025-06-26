@@ -1,7 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/jp/v3/jp/none/7wwp2zuyxqud7augjno5s1m1h_image-header_pRow_1747916128000/fill/none/top/none/85/600/336/webp/image" group-title="Dazn | Fifa WorldCup",Inter vs. River Plate
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/jp/v3/jp/none/23rfahrhxqffjiigh8dfkxhkr_image-header_pRow_1750076113000/fill/none/top/none/85/600/336/webp/image" group-title="Dazn | Fifa WorldCup",Review Show | MD 12
 #EXTVLCOPT:http-user-agent=BEXO/31.05
-https://dcb-fl-live.dtcdn.dazn.com/125dalqffr8fx14eoubn01m4vj/tv/stream.mpd?channel=2650&outlet=dazn-row&plang=en
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/jp/v3/jp/none/d53ppap714v0sv4d6javkbu4e_image-header_pRow_1748011489000/fill/none/top/none/85/600/336/webp/image" group-title="Dazn | Fifa WorldCup",Urawa Red Diamonds vs. CF Monterrey
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://dcb-fl-live.dtcdn.dazn.com/h0sz7m2phpnp1j5wtzfdew481/tv/stream.mpd?channel=2651&outlet=dazn-row&plang=en
+https://dcb-fl-live.dtcdn.dazn.com/1dw9831iwimx81mm5594h1uytc/tv/stream.mpd?channel=1809&outlet=dazn-row&plang=en

@@ -1,32 +1,17 @@
 [
     {
-        "Id": "7wwp2zuyxqud7augjno5s1m1h",
+        "Id": "23rfahrhxqffjiigh8dfkxhkr",
         "islive": true,
         "sports": "Football",
-        "name": "Inter vs. River Plate",
-        "description": "Watch the latest action from the FIFA Club World Cup, with the group stage match between Inter and River Plate.",
-        "poster": "https://image.discovery.indazn.com/jp/v3/jp/none/7wwp2zuyxqud7augjno5s1m1h_image-header_pRow_1747916128000/fill/none/top/none/85/600/336/webp/image",
+        "name": "Review Show | MD 12",
+        "description": "Watch all the latest FIFA Club World Cup action from matchday 12.",
+        "poster": "https://image.discovery.indazn.com/jp/v3/jp/none/23rfahrhxqffjiigh8dfkxhkr_image-header_pRow_1750076113000/fill/none/top/none/85/600/336/webp/image",
         "tournament": "FIFA Club World Cup™",
-        "start": "2025-06-26 06:30 AM",
-        "end": "2025-06-26 10:00 AM",
+        "start": "2025-06-26 09:00 AM",
+        "end": "2025-06-26 09:45 AM",
         "source": {
-            "m3u8": "https://dcb-fl-live.dtcdn.dazn.com/125dalqffr8fx14eoubn01m4vj/tv/stream.m3u8?channel=2650&outlet=dazn-row&plang=en",
-            "mpd": "https://dcb-fl-live.dtcdn.dazn.com/125dalqffr8fx14eoubn01m4vj/tv/stream.mpd?channel=2650&outlet=dazn-row&plang=en"
-        }
-    },
-    {
-        "Id": "d53ppap714v0sv4d6javkbu4e",
-        "islive": true,
-        "sports": "Football",
-        "name": "Urawa Red Diamonds vs. CF Monterrey",
-        "description": "Watch the latest action from the FIFA Club World Cup, with the group stage match between Urawa Red Diamonds and CF Monterrey.",
-        "poster": "https://image.discovery.indazn.com/jp/v3/jp/none/d53ppap714v0sv4d6javkbu4e_image-header_pRow_1748011489000/fill/none/top/none/85/600/336/webp/image",
-        "tournament": "FIFA Club World Cup™",
-        "start": "2025-06-26 06:30 AM",
-        "end": "2025-06-26 10:00 AM",
-        "source": {
-            "m3u8": "https://dcb-fl-live.dtcdn.dazn.com/h0sz7m2phpnp1j5wtzfdew481/tv/stream.m3u8?channel=2651&outlet=dazn-row&plang=en",
-            "mpd": "https://dcb-fl-live.dtcdn.dazn.com/h0sz7m2phpnp1j5wtzfdew481/tv/stream.mpd?channel=2651&outlet=dazn-row&plang=en"
+            "m3u8": "https://dcb-fl-live.dtcdn.dazn.com/1dw9831iwimx81mm5594h1uytc/tv/stream.m3u8?channel=1809&outlet=dazn-row&plang=en",
+            "mpd": "https://dcb-fl-live.dtcdn.dazn.com/1dw9831iwimx81mm5594h1uytc/tv/stream.mpd?channel=1809&outlet=dazn-row&plang=en"
         }
     }
 ]
