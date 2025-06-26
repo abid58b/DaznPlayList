@@ -1,1 +1,17 @@
-[]
+[
+    {
+        "Id": "eo0jldfg9oscud29vdgrd4fjc",
+        "islive": true,
+        "sports": "Football",
+        "name": "Juventus vs. Manchester City",
+        "description": "Watch the latest action from the FIFA Club World Cup, with the group stage match between Juventus and Manchester City.",
+        "poster": "https://image.discovery.indazn.com/jp/v3/jp/none/eo0jldfg9oscud29vdgrd4fjc_image-header_pRow_1747916128000/fill/none/top/none/85/600/336/webp/image",
+        "tournament": "FIFA Club World Cup™",
+        "start": "2025-06-27 12:30 AM",
+        "end": "2025-06-27 04:00 AM",
+        "source": {
+            "m3u8": "https://dcb-fl-live.dtcdn.dazn.com/1it1bdbf43q781nsuax6vnq5mc/tv/stream.m3u8?channel=2650&outlet=dazn-row&plang=en",
+            "mpd": "https://dcb-fl-live.dtcdn.dazn.com/1it1bdbf43q781nsuax6vnq5mc/tv/stream.mpd?channel=2650&outlet=dazn-row&plang=en"
+        }
+    }
+]
