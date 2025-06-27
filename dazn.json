@@ -1,17 +1,1 @@
-[
-    {
-        "Id": "2c3t51spjd4t1a6594cx1qqtt",
-        "islive": true,
-        "sports": "Football",
-        "name": "Review Show | MD 13",
-        "description": "Watch all the latest FIFA Club World Cup action from matchday 13.",
-        "poster": "https://image.discovery.indazn.com/jp/v3/jp/none/2c3t51spjd4t1a6594cx1qqtt_image-header_pRow_1750865292000/fill/none/top/none/85/600/336/webp/image",
-        "tournament": "FIFA Club World Cup™",
-        "start": "2025-06-27 09:00 AM",
-        "end": "2025-06-27 10:00 AM",
-        "source": {
-            "m3u8": "https://dcb-fl-live.dtcdn.dazn.com/am8ocpi5nybm12rw3cvixouzn/tv/stream.m3u8?channel=1809&outlet=dazn-row&plang=en",
-            "mpd": "https://dcb-fl-live.dtcdn.dazn.com/am8ocpi5nybm12rw3cvixouzn/tv/stream.mpd?channel=1809&outlet=dazn-row&plang=en"
-        }
-    }
-]
+[]
