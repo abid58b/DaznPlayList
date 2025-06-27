@@ -13,20 +13,5 @@
             "m3u8": "https://dcb-fl-live.dtcdn.dazn.com/1mxvxpl19cel015znw2ot0uls6/tv/stream.m3u8?channel=2651&outlet=dazn-row&plang=en",
             "mpd": "https://dcb-fl-live.dtcdn.dazn.com/1mxvxpl19cel015znw2ot0uls6/tv/stream.mpd?channel=2651&outlet=dazn-row&plang=en"
         }
-    },
-    {
-        "Id": "74zs80gf06fayvn3otly2qi5c",
-        "islive": true,
-        "sports": "Football",
-        "name": "Al Hilal vs. Pachuca",
-        "description": "Watch the latest action from the FIFA Club World Cup, with the group stage match between Al Hilal and Pachuca.",
-        "poster": "https://image.discovery.indazn.com/jp/v3/jp/none/74zs80gf06fayvn3otly2qi5c_image-header_pRow_1747761679000/fill/none/top/none/85/600/336/webp/image",
-        "tournament": "FIFA Club World Cup™",
-        "start": "2025-06-27 06:30 AM",
-        "end": "2025-06-27 10:00 AM",
-        "source": {
-            "m3u8": "https://dcb-fl-live.dtcdn.dazn.com/13olv374xcais1b6ip4544ew52/tv/stream.m3u8?channel=2650&outlet=dazn-row&plang=en",
-            "mpd": "https://dcb-fl-live.dtcdn.dazn.com/13olv374xcais1b6ip4544ew52/tv/stream.mpd?channel=2650&outlet=dazn-row&plang=en"
-        }
     }
 ]
