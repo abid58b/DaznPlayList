@@ -1,17 +1,1 @@
-[
-    {
-        "Id": "c9u4vqefxyro87lwzntt1pn1o2",
-        "islive": true,
-        "sports": "Football",
-        "name": "Paris Saint-Germain vs. Inter Miami CF",
-        "description": "Watch the latest action from the FIFA Club World Cup, with the Round of 16 match between Paris Saint-Germain and Inter Miami CF.",
-        "poster": "https://image.discovery.indazn.com/jp/v3/jp/none/9u4vqefxyro87lwzntt1pn1o2_image-header_pRow_1750760031000/fill/none/top/none/85/600/336/webp/image",
-        "tournament": "FIFA Club World Cup™",
-        "start": "2025-06-29 09:30 PM",
-        "end": "2025-06-30 02:00 AM",
-        "source": {
-            "m3u8": "https://dcb-fl-live.dtcdn.dazn.com/15e0lkzithchw1aei3n9xlgs97/tv/stream.m3u8?channel=2650&outlet=dazn-row&plang=en",
-            "mpd": "https://dcb-fl-live.dtcdn.dazn.com/15e0lkzithchw1aei3n9xlgs97/tv/stream.mpd?channel=2650&outlet=dazn-row&plang=en"
-        }
-    }
-]
+[]
