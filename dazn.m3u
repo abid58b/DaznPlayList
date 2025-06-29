@@ -1,7 +1,1 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/jp/v3/jp/none/6mk3mmhb9vsqhntvuzsyfig3t_image-header_pRow_1750842153000/fill/none/top/none/85/600/336/webp/image" group-title="Dazn | Fifa WorldCup",SL Benfica vs. Chelsea FC
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://dcb-fl-live.dtcdn.dazn.com/7r99wr9t99wh19q006ffx3qd8/tv/stream.mpd?channel=2651&outlet=dazn-row&plang=en
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/jp/v3/jp/none/86supkumfaz3x44nb8t9q0p5n_image-header_pRow_1751099714000/fill/none/top/none/85/600/336/webp/image" group-title="Dazn | Fifa WorldCup",Review Show | MD 13
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://dcb-fl-live.dtcdn.dazn.com/11h9mkv7nvgzf1pfm8g420slxl/tv/stream.mpd?channel=2650&outlet=dazn-row&plang=en
