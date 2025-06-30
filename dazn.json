@@ -1,17 +1,1 @@
-[
-    {
-        "Id": "c9vuz9tpzglnejgmgh0fpeql6k",
-        "islive": true,
-        "sports": "Football",
-        "name": "Inter vs. Fluminense",
-        "description": "Watch the latest action from the FIFA Club World Cup, with the Round of 16 match between Inter and Fluminense.",
-        "poster": "https://image.discovery.indazn.com/jp/v3/jp/none/9vuz9tpzglnejgmgh0fpeql6k_image-header_pRow_1751048701000/fill/none/top/none/85/600/336/webp/image",
-        "tournament": "FIFA Club World Cup™",
-        "start": "2025-07-01 12:30 AM",
-        "end": "2025-07-01 05:00 AM",
-        "source": {
-            "m3u8": "https://ohbexo@dca-co-live-gcr.gcdn.co/7sbouzallmrq189a9d8qx2kcf/tv/stream.m3u8?channel=1658&outlet=dazn-row&plang=en",
-            "mpd": "https://ohbexo@dca-co-live-gcr.gcdn.co/7sbouzallmrq189a9d8qx2kcf/tv/stream.mpd?channel=1658&outlet=dazn-row&plang=en"
-        }
-    }
-]
+[]
