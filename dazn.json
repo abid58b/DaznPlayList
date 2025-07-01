@@ -1,17 +1,1 @@
-[
-    {
-        "Id": "c226put53c9ib70lnjg1su8nn6",
-        "islive": true,
-        "sports": "Football",
-        "name": "Review Show | MD 16",
-        "description": "Catch up with the latest action from the round-of-16 stage of the FIFA Club World Cup.",
-        "poster": "https://image.discovery.indazn.com/jp/v3/jp/none/226put53c9ib70lnjg1su8nn6_image-header_pRow_1751288042000/fill/none/top/none/85/600/336/webp/image",
-        "tournament": "FIFA Club World Cup™",
-        "start": "2025-07-01 09:30 AM",
-        "end": "2025-07-01 10:45 AM",
-        "source": {
-            "m3u8": "https://ohbexo@dca-co-live-gcr.gcdn.co/h4efftjut2hp1t70n5rp0somr/tv/stream.m3u8?channel=2650&outlet=dazn-row&plang=en",
-            "mpd": "https://ohbexo@dca-co-live-gcr.gcdn.co/h4efftjut2hp1t70n5rp0somr/tv/stream.mpd?channel=2650&outlet=dazn-row&plang=en"
-        }
-    }
-]
+[]
