@@ -1,17 +1,17 @@
 [
     {
-        "Id": "cd5nxdcjaipxj6ina0fi5puzjc",
+        "Id": "cbl39vpevxf62ca9wsed7ayhhd",
         "islive": true,
         "sports": "Football",
-        "name": "Borussia Dortmund vs. CF Monterrey",
-        "description": "Watch the latest action from the FIFA Club World Cup, with the Round of 16 match between Borussia Dortmund and CF Monterrey.",
-        "poster": "https://image.discovery.indazn.com/jp/v3/jp/none/d5nxdcjaipxj6ina0fi5puzjc_image-header_pRow_1751022582000/fill/none/top/none/85/600/336/webp/image",
+        "name": "Review Show | MD 17",
+        "description": "Catch up with the latest action from the round-of-16 stage of the FIFA Club World Cup",
+        "poster": "https://image.discovery.indazn.com/jp/v3/jp/none/bl39vpevxf62ca9wsed7ayhhd_image-header_pRow_1751379488000/fill/none/top/none/85/600/336/webp/image",
         "tournament": "FIFA Club World Cup™",
-        "start": "2025-07-02 06:30 AM",
-        "end": "2025-07-02 11:00 AM",
+        "start": "2025-07-02 09:30 AM",
+        "end": "2025-07-02 10:15 AM",
         "source": {
-            "m3u8": "https://ohbexo@dca-co-live-gcr.gcdn.co/yuy2esn1v1b91fawtfai5mmq2/tv/stream.m3u8?channel=1659&outlet=dazn-row&plang=en",
-            "mpd": "https://ohbexo@dca-co-live-gcr.gcdn.co/yuy2esn1v1b91fawtfai5mmq2/tv/stream.mpd?channel=1659&outlet=dazn-row&plang=en"
+            "m3u8": "https://ohbexo@dca-co-live-gcr.gcdn.co/1vcqztgbnlsk71r50tjkygaov0/tv/stream.m3u8?channel=2650&outlet=dazn-row&plang=en",
+            "mpd": "https://ohbexo@dca-co-live-gcr.gcdn.co/1vcqztgbnlsk71r50tjkygaov0/tv/stream.mpd?channel=2650&outlet=dazn-row&plang=en"
         }
     }
 ]
