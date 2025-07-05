@@ -1,1 +1,17 @@
-[]
+[
+    {
+        "id": "c1090433354",
+        "islive": true,
+        "sports": "Football",
+        "name": "Paris Saint-Germain vs. Bayern München",
+        "description": "Watch the latest action from the FIFA Club World Cup, with the Quarter Final match between Paris Saint-Germain and Bayern München.",
+        "poster": "https://image.discovery.indazn.com/jp/v3/jp/none/4atd0pcryev21fmvt11yi6da8_image-header_pRow_1751630885000/fill/none/top/none/85/600/336/webp/image",
+        "tournament": "FIFA Club World Cup™",
+        "start": "2025-07-05 09:30 PM",
+        "end": "2025-07-06 02:00 AM",
+        "source": {
+            "m3u8": "https://ohbexo@dca-co-live-gcr.gcdn.co/1xfefgxln10k61sfxcum5lf0ws/tv/stream.m3u8?channel=1658&outlet=dazn-row&plang=en",
+            "mpd": "https://ohbexo@dca-co-live-gcr.gcdn.co/1xfefgxln10k61sfxcum5lf0ws/tv/stream.mpd?channel=1658&outlet=dazn-row&plang=en"
+        }
+    }
+]
