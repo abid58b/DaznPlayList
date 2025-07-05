@@ -1,1 +1,4 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/jp/v3/jp/none/7zswdyq1zig8uxxc9owmwvpmp_image-header_pRow_1751182405000/fill/none/top/none/85/600/336/webp/image" group-title="Dazn | Fifa club WorldCup",Palmeiras vs. Chelsea FC
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://ohbexo@dca-co-live-gcr.gcdn.co/1aqcwp2kaf4tm1dmqk837hdwxk/tv/stream.mpd?channel=1659&outlet=dazn-row&plang=en
