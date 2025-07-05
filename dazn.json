@@ -1,17 +1,1 @@
-[
-    {
-        "Id": "cc7daq5kkz6qcdeq06ft3cndzn",
-        "islive": true,
-        "sports": "Football",
-        "name": "Review Show | 4th July",
-        "description": "Catch up with the latest action from the quarter-final stage of the FIFA Club World Cup.",
-        "poster": "https://image.discovery.indazn.com/jp/v3/jp/none/c7daq5kkz6qcdeq06ft3cndzn_image-header_pRow_1751633912000/fill/none/top/none/85/600/336/webp/image",
-        "tournament": "FIFA Club World Cup™",
-        "start": "2025-07-05 09:30 AM",
-        "end": "2025-07-05 10:15 AM",
-        "source": {
-            "m3u8": "https://ohbexo@dca-co-live-gcr.gcdn.co/17djg4h4iqd9r10ah8blns6qxu/tv/stream.m3u8?channel=2650&outlet=dazn-row&plang=en",
-            "mpd": "https://ohbexo@dca-co-live-gcr.gcdn.co/17djg4h4iqd9r10ah8blns6qxu/tv/stream.mpd?channel=2650&outlet=dazn-row&plang=en"
-        }
-    }
-]
+[]
