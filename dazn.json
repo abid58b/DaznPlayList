@@ -1,17 +1,1 @@
-[
-    {
-        "id": "c1090494165",
-        "islive": true,
-        "sports": "Football",
-        "name": "Fluminense vs. Chelsea FC",
-        "description": "Watch the latest action from the FIFA Club World Cup, with the semi-final match between Fluminense and Chelsea FC.",
-        "poster": "https://image.discovery.indazn.com/jp/v3/jp/none/7pq7p4bef3xp47rdv8s0wz20z_image-header_pRow_1751699542000/fill/none/top/none/85/600/336/webp/image",
-        "tournament": "FIFA Club World Cup™",
-        "start": "2025-07-09 12:30 AM",
-        "end": "2025-07-09 05:00 AM",
-        "source": {
-            "m3u8": "https://ohbexo@dca-co-live-gcr.gcdn.co/7icfd6ta8qrl1dwsgdn9zeu28/tv/stream.m3u8?channel=1658&outlet=dazn-row&plang=en",
-            "mpd": "https://ohbexo@dca-co-live-gcr.gcdn.co/7icfd6ta8qrl1dwsgdn9zeu28/tv/stream.mpd?channel=1658&outlet=dazn-row&plang=en"
-        }
-    }
-]
+[]
