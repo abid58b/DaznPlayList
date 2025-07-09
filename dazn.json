@@ -1,17 +1,1 @@
-[
-    {
-        "id": "c1090464028",
-        "islive": true,
-        "sports": "Football",
-        "name": "Paris Saint-Germain vs. Real Madrid",
-        "description": "Watch the latest action from the FIFA Club World Cup, with the semi-final match between Paris Saint-Germain and Real Madrid.",
-        "poster": "https://image.discovery.indazn.com/jp/v3/jp/none/823v0n0vwjxqshednu13f8jc_image-header_pRow_1751771827000/fill/none/top/none/85/600/336/webp/image",
-        "tournament": "FIFA Club World Cup™",
-        "start": "2025-07-10 12:40 AM",
-        "end": "2025-07-10 05:00 AM",
-        "source": {
-            "m3u8": "https://ohbexo@dca-co-live-gcr.gcdn.co/1ecx26pf285tz1cvm48rzc9ehl/tv/stream.m3u8?channel=1658&outlet=dazn-row&plang=en",
-            "mpd": "https://ohbexo@dca-co-live-gcr.gcdn.co/1ecx26pf285tz1cvm48rzc9ehl/tv/stream.mpd?channel=1658&outlet=dazn-row&plang=en"
-        }
-    }
-]
+[]
