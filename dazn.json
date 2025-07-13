@@ -1,17 +1,1 @@
-[
-    {
-        "id": "c1090410695",
-        "islive": true,
-        "sports": "Football",
-        "name": "Chelsea FC vs. Paris Saint-Germain",
-        "description": "Don't miss an historic final in the inaugural 32-team FIFA Club World Cup, where Chelsea FC and Paris Saint-Germain face off in 2025's showpiece event to crown the ultimate world champion.",
-        "poster": "https://image.discovery.indazn.com/jp/v3/jp/none/5p1h0bescfoexhuyc8nvlo46a_image-header_pRow_1752095884000/fill/none/top/none/85/600/336/webp/image",
-        "tournament": "FIFA Club World Cup™",
-        "start": "2025-07-14 12:30 AM",
-        "end": "2025-07-14 06:00 AM",
-        "source": {
-            "m3u8": "https://ohbexo@dca-co-live-gcr.gcdn.co/9iswtiwixvbn11zle8cwsb5gu/tv/stream.m3u8?channel=1658&outlet=dazn-row&plang=en",
-            "mpd": "https://ohbexo@dca-co-live-gcr.gcdn.co/9iswtiwixvbn11zle8cwsb5gu/tv/stream.mpd?channel=1658&outlet=dazn-row&plang=en"
-        }
-    }
-]
+[]
