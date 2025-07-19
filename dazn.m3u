@@ -1,1 +1,19 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/jp/v3/jp/none/pm0urhkj2ddd1kciog8xhnkci_image-header_pRow_1752754792000/fill/none/top/none/85/600/336/webp/image" group-title="Dazn | Fifa club WorldCup",Odiase vs. Govedarica
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://ohbexo@dca-co-live-gcr.gcdn.co/1daxs239abzph1y1l0qg24bha8/tv/stream.mpd?channel=3212&outlet=dazn-row&plang=en
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/jp/v3/jp/none/f342m5kuaxhyrcjzzlnqezeyn_image-header_pRow_1752889534000/fill/none/top/none/85/600/336/webp/image" group-title="Dazn | Fifa club WorldCup",United States U19 vs. Spain U19
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://ohbexo@dca-co-live-gcr.gcdn.co/1y1yu6n0vtbdz1hnjj65ea9mt4/tv/stream.mpd?channel=5666&outlet=dazn-row&plang=en
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/jp/v3/jp/none/1n9jlrjex73qwvgyrw4pnr3ol_image-header_pRow_1752239158000/fill/none/top/none/85/600/336/webp/image" group-title="Dazn | Fifa club WorldCup",Las Vegas - Day 4 (Pro Stream)
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://ohbexo@dca-co-live-gcr.gcdn.co/1ihp4ixrkppsx1uyrb1ya0py6p/tv/stream.mpd?channel=7001&outlet=dazn-row&plang=en
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/jp/v3/jp/none/ac95ap7vmkga1l5s4wjpo51ex_image-header_pRow_1752237749000/fill/none/top/none/85/600/336/webp/image" group-title="Dazn | Fifa club WorldCup",Las Vegas - Day 4 (Standard Stream)
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://ohbexo@dca-co-live-gcr.gcdn.co/1bf5t8yviiste17sgvrixtvldz/tv/stream.mpd?channel=5077&outlet=dazn-row&plang=en
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/jp/v3/jp/none/19x04f7se63y61wvzxg86w23r0_image-header_pRow_1747144256000/fill/none/top/none/85/600/336/webp/image" group-title="Dazn | Fifa club WorldCup",Munich Ravens @ Raiders Tirol
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://ohbexo@dca-co-live-gcr.gcdn.co/1k8cx0adnchg01gqa9ps71121y/tv/stream.mpd?channel=5670&outlet=dazn-row&plang=en
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/jp/v3/jp/none/zsw549u65vr5107a6j16xsje5_image-header_pRow_1747151504000/fill/none/top/none/85/600/336/webp/image" group-title="Dazn | Fifa club WorldCup",ELF Zone
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+
