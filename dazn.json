@@ -1,77 +1,125 @@
 [
     {
-        "id": "c1090411773",
+        "id": "c1090472254",
+        "islive": true,
+        "sports": "Basketball",
+        "name": "United States U19 vs. Australia U19",
+        "description": "Watch Basketball action as United States U19 takes on Australia U19.",
+        "poster": "https://image.discovery.indazn.com/jp/v3/jp/none/9rk712xehao72ri89yf6rkply_image-header_pRow_1752963473000/fill/none/top/none/85/600/336/webp/image",
+        "tournament": "FIBA U19 World Cup (W)",
+        "start": "2025-07-20 11:30 PM",
+        "end": "2025-07-21 02:30 AM",
+        "source": {
+            "m3u8": "https://ohbexo@dca-co-live-gcr.gcdn.co/1q6w2lnc1t48u1db3ai5b4o6yv/tv/stream.m3u8?channel=5674&outlet=dazn-row&plang=en",
+            "mpd": "https://ohbexo@dca-co-live-gcr.gcdn.co/1q6w2lnc1t48u1db3ai5b4o6yv/tv/stream.mpd?channel=5674&outlet=dazn-row&plang=en"
+        }
+    },
+    {
+        "id": "c1090473468",
+        "islive": true,
+        "sports": "Chess",
+        "name": "Las Vegas : Day 5 (Pro Stream)",
+        "description": "In the latest round of chess action, the Freestyle Chess Grand Slam Tour is under way.",
+        "poster": "https://image.discovery.indazn.com/jp/v3/jp/none/6vbramqx7glaxd71r5xtemmp0_image-header_pRow_1752235079000/fill/none/top/none/85/600/336/webp/image",
+        "tournament": "Freestyle Chess Grand Slam Tour",
+        "start": "2025-07-20 10:45 PM",
+        "end": "2025-07-21 04:45 AM",
+        "source": {
+            "m3u8": "https://ohbexo@dca-co-live-gcr.gcdn.co/1tutrowyqsxrq1fz7unba0r47q/tv/stream.m3u8?channel=7005&outlet=dazn-row&plang=en",
+            "mpd": "https://ohbexo@dca-co-live-gcr.gcdn.co/1tutrowyqsxrq1fz7unba0r47q/tv/stream.mpd?channel=7005&outlet=dazn-row&plang=en"
+        }
+    },
+    {
+        "id": "c1090499009",
+        "islive": true,
+        "sports": "Chess",
+        "name": "Las Vegas - Day 5 (Standard Stream)",
+        "description": "In the latest round of chess action, the Freestyle Chess Grand Slam Tour is under way.",
+        "poster": "https://image.discovery.indazn.com/jp/v3/jp/none/b30clgo6dl4o3j4r6nrrtqtay_image-header_pRow_1752234820000/fill/none/top/none/85/600/336/webp/image",
+        "tournament": "Freestyle Chess Grand Slam Tour",
+        "start": "2025-07-20 10:45 PM",
+        "end": "2025-07-21 04:45 AM",
+        "source": {
+            "m3u8": "https://ohbexo@dca-co-live-gcr.gcdn.co/x01eckpycs4g1643oc3yt2upc/tv/stream.m3u8?channel=5072&outlet=dazn-row&plang=en",
+            "mpd": "https://ohbexo@dca-co-live-gcr.gcdn.co/x01eckpycs4g1643oc3yt2upc/tv/stream.mpd?channel=5072&outlet=dazn-row&plang=en"
+        }
+    },
+    {
+        "id": "c1090457742",
+        "islive": true,
+        "sports": "Football",
+        "name": "Union Saint-Gilloise vs. Club Brugge",
+        "description": "Watch Union Saint-Gilloise take on Club Brugge in the Belgian Super Cup.",
+        "poster": "https://image.discovery.indazn.com/jp/v3/jp/none/3bjp06u6gym31fomj977fddf8_image-header_pRow_1752239087000/fill/none/top/none/85/600/336/webp/image",
+        "tournament": "Super Cup",
+        "start": "2025-07-20 10:00 PM",
+        "end": "2025-07-21 01:00 AM",
+        "source": {
+            "m3u8": "https://ohbexo@dca-co-live-gcr.gcdn.co/cax6tl4by2361fo6gbwf9lmpj/tv/stream.m3u8?channel=3923&outlet=dazn-row&plang=en",
+            "mpd": "https://ohbexo@dca-co-live-gcr.gcdn.co/cax6tl4by2361fo6gbwf9lmpj/tv/stream.mpd?channel=3923&outlet=dazn-row&plang=en"
+        }
+    },
+    {
+        "id": "c1090450447",
         "islive": true,
         "sports": "American Football",
-        "name": "2025 NFL Flag Championships: International Championship Game",
-        "description": "Featuring girls and boys NFL Flag regional winners, see all 32 franchises represented at the NFL Flag Championship taking place at the Pro Football Hall of Fame in Canton, Ohio.",
-        "poster": "https://image.discovery.indazn.com/jp/v3/jp/none/15bgnzu9dsaqj1r8j72gnssij3_image-header_pRow_1752222334000/fill/none/top/none/85/600/336/webp/image",
-        "tournament": "NFL Game Pass",
-        "start": "2025-07-20 02:30 AM",
-        "end": "2025-07-20 03:45 AM",
-        "source": {
-            "m3u8": "https://ohbexo@dca-co-live-gcr.gcdn.co/2zvl5zzybbve1tnhb26p77902/tv/stream.m3u8?channel=5073&outlet=dazn-row&plang=en",
-            "mpd": "https://ohbexo@dca-co-live-gcr.gcdn.co/2zvl5zzybbve1tnhb26p77902/tv/stream.mpd?channel=5073&outlet=dazn-row&plang=en"
-        }
+        "name": "Rhein Fire @ Hamburg Sea Devils",
+        "description": "American football action from the European League of Football.",
+        "poster": "https://image.discovery.indazn.com/jp/v3/jp/none/162pszvcd2fxt1aln49g5v16vn_image-header_pRow_1747140160000/fill/none/top/none/85/600/336/webp/image",
+        "tournament": "ELF",
+        "start": "2025-07-20 07:55 PM",
+        "end": "2025-07-20 11:55 PM",
+        "source": []
     },
     {
-        "id": "c1090486343",
+        "id": "c1090407397",
         "islive": true,
-        "sports": "Boxing",
-        "name": "Rodriguez vs. Cafu: Prelims",
-        "description": "A fantastic preliminary card kicks off in Texas, as we await the return of super flyweight champion Jesse 'Bam' Rodriguez.",
-        "poster": "https://image.discovery.indazn.com/jp/v3/jp/none/p5kmd8uhxrz91a4bqebk7m82a_image-header_pRow_1752826086000/fill/none/top/none/85/600/336/webp/image",
-        "tournament": "Matchroom Boxing",
-        "start": "2025-07-20 02:30 AM",
-        "end": "2025-07-20 05:00 AM",
-        "source": {
-            "m3u8": "https://ohbexo@dca-co-live-gcr.gcdn.co/1f0dz7lu5nok31u83ujzetas2c/tv/stream.m3u8?channel=3237&outlet=dazn-row&plang=en",
-            "mpd": "https://ohbexo@dca-co-live-gcr.gcdn.co/1f0dz7lu5nok31u83ujzetas2c/tv/stream.mpd?channel=3237&outlet=dazn-row&plang=en"
-        }
+        "sports": "American Football",
+        "name": "Fehérvár Enthroners @ Prague Lions",
+        "description": "American football action from the European League of Football.",
+        "poster": "https://image.discovery.indazn.com/jp/v3/jp/none/4gcfzdodbfqi1jw9fc4lig5tt_image-header_pRow_1747140159000/fill/none/top/none/85/600/336/webp/image",
+        "tournament": "ELF",
+        "start": "2025-07-20 07:55 PM",
+        "end": "2025-07-20 11:55 PM",
+        "source": []
     },
     {
-        "id": "c1090411018",
+        "id": "c1090408053",
         "islive": true,
-        "sports": "Boxing",
-        "name": "Odiase vs. Govedarica",
-        "description": "Ringside Zone brings a fantastic card of fights to Heidelberg, Germany, with Emmanuel Odiase (7-0) facing off against Srdan Govedarica (13-11) in the main event.",
-        "poster": "https://image.discovery.indazn.com/jp/v3/jp/none/pm0urhkj2ddd1kciog8xhnkci_image-header_pRow_1752754792000/fill/none/top/none/85/600/336/webp/image",
-        "tournament": "Ringside Zone",
-        "start": "2025-07-19 11:30 PM",
-        "end": "2025-07-20 04:30 AM",
-        "source": {
-            "m3u8": "https://ohbexo@dca-co-live-gcr.gcdn.co/1daxs239abzph1y1l0qg24bha8/tv/stream.m3u8?channel=3212&outlet=dazn-row&plang=en",
-            "mpd": "https://ohbexo@dca-co-live-gcr.gcdn.co/1daxs239abzph1y1l0qg24bha8/tv/stream.mpd?channel=3212&outlet=dazn-row&plang=en"
-        }
+        "sports": "American Football",
+        "name": "Paris Musketeers @ Stuttgart Surge",
+        "description": "American football action from the European League of Football.",
+        "poster": "https://image.discovery.indazn.com/jp/v3/jp/none/jdjkncil728j1aqlcyy30kan8_image-header_pRow_1747140159000/fill/none/top/none/85/600/336/webp/image",
+        "tournament": "ELF",
+        "start": "2025-07-20 07:55 PM",
+        "end": "2025-07-20 11:55 PM",
+        "source": []
     },
     {
-        "id": "c1090490336",
+        "id": "c1090412679",
         "islive": true,
-        "sports": "Chess",
-        "name": "Las Vegas - Day 4 (Pro Stream)",
-        "description": "In the latest round of chess action, the Freestyle Chess Grand Slam Tour is under way.",
-        "poster": "https://image.discovery.indazn.com/jp/v3/jp/none/1n9jlrjex73qwvgyrw4pnr3ol_image-header_pRow_1752239158000/fill/none/top/none/85/600/336/webp/image",
-        "tournament": "Freestyle Chess Grand Slam Tour",
-        "start": "2025-07-19 11:00 PM",
-        "end": "2025-07-20 05:00 AM",
-        "source": {
-            "m3u8": "https://ohbexo@dca-co-live-gcr.gcdn.co/1ihp4ixrkppsx1uyrb1ya0py6p/tv/stream.m3u8?channel=7001&outlet=dazn-row&plang=en",
-            "mpd": "https://ohbexo@dca-co-live-gcr.gcdn.co/1ihp4ixrkppsx1uyrb1ya0py6p/tv/stream.mpd?channel=7001&outlet=dazn-row&plang=en"
-        }
+        "sports": "American Football",
+        "name": "ELF Zone",
+        "description": "American football action from the European League of Football.",
+        "poster": "https://image.discovery.indazn.com/jp/v3/jp/none/ulimvgup71fh1why7gyn3k95g_image-header_pRow_1747151504000/fill/none/top/none/85/600/336/webp/image",
+        "tournament": "ELF",
+        "start": "2025-07-20 04:25 PM",
+        "end": "2025-07-20 11:55 PM",
+        "source": []
     },
     {
-        "id": "c1090475109",
+        "id": "c1090418420",
         "islive": true,
-        "sports": "Chess",
-        "name": "Las Vegas - Day 4 (Standard Stream)",
-        "description": "In the latest round of chess action, the Freestyle Chess Grand Slam Tour is under way.",
-        "poster": "https://image.discovery.indazn.com/jp/v3/jp/none/ac95ap7vmkga1l5s4wjpo51ex_image-header_pRow_1752237749000/fill/none/top/none/85/600/336/webp/image",
-        "tournament": "Freestyle Chess Grand Slam Tour",
-        "start": "2025-07-19 11:00 PM",
-        "end": "2025-07-20 05:00 AM",
+        "sports": "Triathlon",
+        "name": "Athletic Brewing IRONMAN Lake Placid",
+        "description": "Don't miss out on the Athletic Brewing as part of the IRONMAN Pro Series.",
+        "poster": "https://image.discovery.indazn.com/jp/v3/jp/none/auyj2vsvm3hrcx4glulcitev6_image-header_pRow_1752684530000/fill/none/top/none/85/600/336/webp/image",
+        "tournament": "IRONMAN Pro Series",
+        "start": "2025-07-20 03:30 PM",
+        "end": "2025-07-21 01:45 AM",
         "source": {
-            "m3u8": "https://ohbexo@dca-co-live-gcr.gcdn.co/1bf5t8yviiste17sgvrixtvldz/tv/stream.m3u8?channel=5077&outlet=dazn-row&plang=en",
-            "mpd": "https://ohbexo@dca-co-live-gcr.gcdn.co/1bf5t8yviiste17sgvrixtvldz/tv/stream.mpd?channel=5077&outlet=dazn-row&plang=en"
+            "m3u8": "https://ohbexo@dca-co-live-gcr.gcdn.co/1alduajq6zxom1tj2za7rkcyw9/tv/stream.m3u8?channel=7002&outlet=dazn-row&plang=en",
+            "mpd": "https://ohbexo@dca-co-live-gcr.gcdn.co/1alduajq6zxom1tj2za7rkcyw9/tv/stream.mpd?channel=7002&outlet=dazn-row&plang=en"
         }
     }
 ]
