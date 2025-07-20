@@ -60,54 +60,6 @@
         }
     },
     {
-        "id": "c1090450447",
-        "islive": true,
-        "sports": "American Football",
-        "name": "Rhein Fire @ Hamburg Sea Devils",
-        "description": "American football action from the European League of Football.",
-        "poster": "https://image.discovery.indazn.com/jp/v3/jp/none/162pszvcd2fxt1aln49g5v16vn_image-header_pRow_1747140160000/fill/none/top/none/85/600/336/webp/image",
-        "tournament": "ELF",
-        "start": "2025-07-20 07:55 PM",
-        "end": "2025-07-20 11:55 PM",
-        "source": []
-    },
-    {
-        "id": "c1090407397",
-        "islive": true,
-        "sports": "American Football",
-        "name": "Fehérvár Enthroners @ Prague Lions",
-        "description": "American football action from the European League of Football.",
-        "poster": "https://image.discovery.indazn.com/jp/v3/jp/none/4gcfzdodbfqi1jw9fc4lig5tt_image-header_pRow_1747140159000/fill/none/top/none/85/600/336/webp/image",
-        "tournament": "ELF",
-        "start": "2025-07-20 07:55 PM",
-        "end": "2025-07-20 11:55 PM",
-        "source": []
-    },
-    {
-        "id": "c1090408053",
-        "islive": true,
-        "sports": "American Football",
-        "name": "Paris Musketeers @ Stuttgart Surge",
-        "description": "American football action from the European League of Football.",
-        "poster": "https://image.discovery.indazn.com/jp/v3/jp/none/jdjkncil728j1aqlcyy30kan8_image-header_pRow_1747140159000/fill/none/top/none/85/600/336/webp/image",
-        "tournament": "ELF",
-        "start": "2025-07-20 07:55 PM",
-        "end": "2025-07-20 11:55 PM",
-        "source": []
-    },
-    {
-        "id": "c1090412679",
-        "islive": true,
-        "sports": "American Football",
-        "name": "ELF Zone",
-        "description": "American football action from the European League of Football.",
-        "poster": "https://image.discovery.indazn.com/jp/v3/jp/none/ulimvgup71fh1why7gyn3k95g_image-header_pRow_1747151504000/fill/none/top/none/85/600/336/webp/image",
-        "tournament": "ELF",
-        "start": "2025-07-20 04:25 PM",
-        "end": "2025-07-20 11:55 PM",
-        "source": []
-    },
-    {
         "id": "c1090418420",
         "islive": true,
         "sports": "Triathlon",

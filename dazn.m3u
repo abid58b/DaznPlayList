@@ -11,18 +11,6 @@ https://ohbexo@dca-co-live-gcr.gcdn.co/x01eckpycs4g1643oc3yt2upc/tv/stream.mpd?c
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/jp/v3/jp/none/3bjp06u6gym31fomj977fddf8_image-header_pRow_1752239087000/fill/none/top/none/85/600/336/webp/image" group-title="Dazn | Fifa club WorldCup",Union Saint-Gilloise vs. Club Brugge
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://ohbexo@dca-co-live-gcr.gcdn.co/cax6tl4by2361fo6gbwf9lmpj/tv/stream.mpd?channel=3923&outlet=dazn-row&plang=en
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/jp/v3/jp/none/162pszvcd2fxt1aln49g5v16vn_image-header_pRow_1747140160000/fill/none/top/none/85/600/336/webp/image" group-title="Dazn | Fifa club WorldCup",Rhein Fire @ Hamburg Sea Devils
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/jp/v3/jp/none/4gcfzdodbfqi1jw9fc4lig5tt_image-header_pRow_1747140159000/fill/none/top/none/85/600/336/webp/image" group-title="Dazn | Fifa club WorldCup",Fehérvár Enthroners @ Prague Lions
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/jp/v3/jp/none/jdjkncil728j1aqlcyy30kan8_image-header_pRow_1747140159000/fill/none/top/none/85/600/336/webp/image" group-title="Dazn | Fifa club WorldCup",Paris Musketeers @ Stuttgart Surge
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/jp/v3/jp/none/ulimvgup71fh1why7gyn3k95g_image-header_pRow_1747151504000/fill/none/top/none/85/600/336/webp/image" group-title="Dazn | Fifa club WorldCup",ELF Zone
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/jp/v3/jp/none/auyj2vsvm3hrcx4glulcitev6_image-header_pRow_1752684530000/fill/none/top/none/85/600/336/webp/image" group-title="Dazn | Fifa club WorldCup",Athletic Brewing IRONMAN Lake Placid
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://ohbexo@dca-co-live-gcr.gcdn.co/1alduajq6zxom1tj2za7rkcyw9/tv/stream.mpd?channel=7002&outlet=dazn-row&plang=en
