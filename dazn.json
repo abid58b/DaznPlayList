@@ -15,21 +15,6 @@
         }
     },
     {
-        "id": "c1090472254",
-        "islive": true,
-        "sports": "Basketball",
-        "name": "United States U19 vs. Australia U19",
-        "description": "Watch Basketball action as United States U19 takes on Australia U19.",
-        "poster": "https://image.discovery.indazn.com/jp/v3/jp/none/9rk712xehao72ri89yf6rkply_image-header_pRow_1752963473000/fill/none/top/none/85/600/336/webp/image",
-        "tournament": "FIBA U19 World Cup (W)",
-        "start": "2025-07-20 11:30 PM",
-        "end": "2025-07-21 02:30 AM",
-        "source": {
-            "m3u8": "https://ohbexo@dca-co-live-gcr.gcdn.co/1q6w2lnc1t48u1db3ai5b4o6yv/tv/stream.m3u8?channel=5674&outlet=dazn-row&plang=en",
-            "mpd": "https://ohbexo@dca-co-live-gcr.gcdn.co/1q6w2lnc1t48u1db3ai5b4o6yv/tv/stream.mpd?channel=5674&outlet=dazn-row&plang=en"
-        }
-    },
-    {
         "id": "c1090473468",
         "islive": true,
         "sports": "Chess",
@@ -57,21 +42,6 @@
         "source": {
             "m3u8": "https://ohbexo@dca-co-live-gcr.gcdn.co/x01eckpycs4g1643oc3yt2upc/tv/stream.m3u8?channel=5072&outlet=dazn-row&plang=en",
             "mpd": "https://ohbexo@dca-co-live-gcr.gcdn.co/x01eckpycs4g1643oc3yt2upc/tv/stream.mpd?channel=5072&outlet=dazn-row&plang=en"
-        }
-    },
-    {
-        "id": "c1090418420",
-        "islive": true,
-        "sports": "Triathlon",
-        "name": "Athletic Brewing IRONMAN Lake Placid",
-        "description": "Don't miss out on the Athletic Brewing as part of the IRONMAN Pro Series.",
-        "poster": "https://image.discovery.indazn.com/jp/v3/jp/none/auyj2vsvm3hrcx4glulcitev6_image-header_pRow_1752684530000/fill/none/top/none/85/600/336/webp/image",
-        "tournament": "IRONMAN Pro Series",
-        "start": "2025-07-20 03:30 PM",
-        "end": "2025-07-21 01:45 AM",
-        "source": {
-            "m3u8": "https://ohbexo@dca-co-live-gcr.gcdn.co/1alduajq6zxom1tj2za7rkcyw9/tv/stream.m3u8?channel=7002&outlet=dazn-row&plang=en",
-            "mpd": "https://ohbexo@dca-co-live-gcr.gcdn.co/1alduajq6zxom1tj2za7rkcyw9/tv/stream.mpd?channel=7002&outlet=dazn-row&plang=en"
         }
     }
 ]
