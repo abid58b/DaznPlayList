@@ -1,10 +1,1 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/jp/v3/jp/none/cjlce8e2ngtv0of4ql7st1qei_image-header_pRow_1751984804000/fill/none/top/none/85/600/336/webp/image" group-title="Dazn | Fifa club WorldCup",BIG3: Detroit
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://ohbexo@dca-co-live-gcr.gcdn.co/1vjn0aytq6lyj13bmdva9lsat2/tv/stream.mpd?channel=5078&outlet=dazn-row&plang=en
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/jp/v3/jp/none/6vbramqx7glaxd71r5xtemmp0_image-header_pRow_1752235079000/fill/none/top/none/85/600/336/webp/image" group-title="Dazn | Fifa club WorldCup",Las Vegas : Day 5 (Pro Stream)
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://ohbexo@dca-co-live-gcr.gcdn.co/1tutrowyqsxrq1fz7unba0r47q/tv/stream.mpd?channel=7005&outlet=dazn-row&plang=en
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/jp/v3/jp/none/b30clgo6dl4o3j4r6nrrtqtay_image-header_pRow_1752234820000/fill/none/top/none/85/600/336/webp/image" group-title="Dazn | Fifa club WorldCup",Las Vegas - Day 5 (Standard Stream)
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://ohbexo@dca-co-live-gcr.gcdn.co/x01eckpycs4g1643oc3yt2upc/tv/stream.mpd?channel=5072&outlet=dazn-row&plang=en
